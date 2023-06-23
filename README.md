@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I am Maria Bassem 👋</h1> 
 
+---
+
 # 💫 About Me:
 🔭 I’m currently a student in Computer and Systems Engineering Alexandria University<br>🌱 I’m currently learning AI and problem solving techniques
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-bassem-6931a3246/) 
@@ -21,8 +24,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MariaBassem123&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MariaBassem123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
