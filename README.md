@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I am Maria Bassem 👋</h1> 
+<!-- ###  -->
 
 <!--
 **MariaBassem123/MariaBassem123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
